@@ -1,0 +1,63 @@
+{
+    "clearDay": {
+        "original": "It's fucking nice",
+        "cold": "Freezing cold like \na fucking fridge",
+        "cool": "It's not shitty",
+        "hot": "It's like a \nfucking oven",
+        "perfect": "Fucking \namazeballs",
+        "really_hot": "Global fucking \nwarming",
+        "zero": "Frozen fucking \nfingers",
+        "negative": "Hypo-fucking-\nthermic"
+
+    },
+
+    "clearNight": {
+        "original": "The stars are \nfucking beautiful"
+		
+    },
+
+    "rain": {
+        "original": "Get your fucking \numbrella",
+        "cold": "Stay in fucking \nbed"
+		
+    },
+
+    "snow": {
+        "original": "Holy fucking \nsnow",
+        "freezing": "Frozen fucking \nweather"
+		
+    },
+
+    "sleet": {
+        "original": "Can't see because \nof fucking sleet"
+		
+    },
+
+    "wind": {
+        "original": "Pretty fucking \nwindy",
+        "cold": "It's fucking cold \nand windy"
+		
+    },
+
+    "fog": {
+        "original": "I can't see shit",
+        "cold": "Stay in \nfucking bed"
+		
+    },
+
+    "cloudy": {
+        "original": "Fucking fifty \nshades of grey",
+        "cold": "It's fucking cold \nand grey"
+		
+    },
+
+    "partlyCloudyDay": {
+        "original": "A few shitty little \nclouds"
+		
+    },
+
+    "partlyCloudyNight": {
+        "original": "It's too dark to \nfucking tell"
+		
+    }
+}

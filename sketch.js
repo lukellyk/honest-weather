@@ -90,7 +90,7 @@ const weatherResults = (callback) => { //parsing json with weather information w
 		console.log(json) //log raw weather data to console
 		loadedEverything = true; //boolean to let weather information load before code carries on
 
-		//variables defined by information within weather json
+		// //variables defined by information within weather json
 		currentWeather = json.currently.icon;
 		temp = floor(json.currently.apparentTemperature);
 		humidity = floor((json.currently.humidity)*100);
